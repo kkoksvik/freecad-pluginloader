@@ -4,8 +4,12 @@
 
 Install
 -------
-
+For Debian, Mint Ubuntu etc.:
 create /usr/lib/freecad/Mod/plugins
+
+For Archlinux :
+create /usr/share/freecad/Mod/plugins
+
 
 cp pluginloader.py, pluginloaderconfig.yaml, InitGui.py  into this directory
 
